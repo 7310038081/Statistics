@@ -1,0 +1,84 @@
+What is a Variable?
+A variable is something that can change or vary in a study. It is a characteristic or trait(feauture of something or someone)
+that can be measured or categorized, and it can have different values for different people or things.
+
+Example:
+Age is a variable because different people can have different ages.
+Color of a car is a variable because cars can be different colors.
+In short, a variable is any factor that can take on different values.
+
+
+For example, in a study about students in a school, the variables could include:
+Age
+Gender
+Height
+GPA
+Favorite subject
+
+Types of Variables:
+Variables can be broadly classified into two types:
+
+Quantitative Variables
+Qualitative (Categorical) Variables
+1. Quantitative Variable:
+Definition: A quantitative variable is a variable that represents a measurable quantity.
+It has numerical values that can be used for mathematical operations (like addition, subtraction, etc.).
+Quantitative variables are also known as numerical variables because they express amounts or quantities.
+
+Key Points:
+
+Quantitative variables can be counted or measured.
+They have meaningful numerical values that can be used in calculations.
+Quantitative variables can be divided into discrete and continuous variables.
+Examples of Quantitative Variables:
+Height (e.g., 150 cm, 175 cm, 180 cm)
+Weight (e.g., 50 kg, 75 kg, 90 kg)
+Age (e.g., 10 years, 25 years, 45 years)
+Salary (e.g., $30,000, $50,000, $100,000)
+Number of children in a family (e.g., 0, 2, 4)
+
+Types of Quantitative Variables:
+Discrete Variables: These are variables that take on countable values. Discrete variables can only take
+specific, distinct values, often integers (whole numbers).
+
+Example: Number of children in a family, number of cars in a parking lot.
+
+Continuous Variables: These are variables that can take on an infinite number of values within a given range.
+They can be measured to any level of precision.
+
+Example: Height, weight, time, temperature.
+
+
+
+
+
+2. Qualitative (Categorical) Variable:
+Definition: A qualitative variable, also called a categorical variable, represents categories or qualities 
+rather than numerical values. It describes a characteristic or attribute that can be used to sort or classify
+data into groups or categories.
+
+Key Points:
+
+Qualitative variables cannot be used for mathematical operations.
+They are used to describe the type or category of something.
+Qualitative variables can be divided into two main types:
+Nominal Variables
+Ordinal Variables
+Examples of Qualitative (Categorical) Variables:
+Gender (e.g., Male, Female)
+Marital status (e.g., Single, Married, Divorced)
+Favorite color (e.g., Red, Blue, Green)
+Blood type (e.g., A, B, AB, O)
+Car brand (e.g., Toyota, Honda, Ford)
+ 
+Types of Qualitative Variables:
+Nominal Variables: These are categorical variables that have no inherent order. The categories are just 
+different from one another but cannot be ranked or ordered.
+
+Example: Hair color (Black, Brown, Blonde, Red), Favorite fruit (Apple, Orange, Banana).
+
+Ordinal Variables: These are categorical variables that have a meaningful order or ranking,
+but the distances between the categories are not meaningful.
+
+Example: Education level (High School, Bachelor’s, Master’s, PhD), Customer satisfaction rating (Very Poor,
+Poor, Neutral, Good, Excellent).
