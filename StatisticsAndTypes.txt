@@ -1,0 +1,19 @@
+Question:- What is Statistics?
+Answer: Statistics is the science of collecting , organizing and analyzing the data.
+
+Question:- Types of Statistics?
+Answer: There are two types of Statistics.
+
+1.Descriptive Statistics: It consists of organizing and summarizing of data.
+a).Measure of Central Tendency.(Mean,Median,Mode)
+b).Measure od Dispersion(Variance and Standard Deviation)
+c).Different Types of Distribution of data
+d).Histogram,pdf,pmf
+
+2.Inferential Statistics: It consists of using data(sample) you have to measure (from population)to form conclusions.
+a.)Z-test
+b.)T-test
+3).ANOVA
+etc..
+
+
